@@ -26,7 +26,6 @@ export default tseslint.config(
       ],
     },
     eslintPluginPrettierRecommended,
-<<<<<<<<<<<<<<  ✨ Codeium Command 🌟  >>>>>>>>>>>>>>>>
     rules: {
       // Desativa a regra de proibio de comentarios do tipo `// @ts-ignore`
       "@typescript-eslint/ban-ts-comment": "off",
@@ -166,6 +165,5 @@ export default tseslint.config(
       // Desativa a regra de nao usar ordenacao de metodos em uma classe
       "react/sort-comp": "off",
     },
-<<<<<<<  bef18cd4-30f4-40d4-ac64-02a74025380e  >>>>>>>
   },
 );
