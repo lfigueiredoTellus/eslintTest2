@@ -1,0 +1,4 @@
+echo "Checking for eslint errors..."
+npm run check
+
+echo "Done."
